@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "deepwiki": {
+      "url": "https://mcp.deepwiki.com/sse"
+    },
+    "neo4j Docs": {
+      "url": "https://gitmcp.io/neo4j/neo4j"
+    },
+    "llama_index Docs": {
+      "url": "https://gitmcp.io/run-llama/llama_index/tree/main/llama-index-integrations/graph_stores/llama-index-graph-stores-neo4j"
+    },
+    "context7": {
+      "command": "npx -y @upstash/context7-mcp",
+      "env": {}
+    }
+  }
+} 
